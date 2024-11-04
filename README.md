@@ -32,11 +32,9 @@
 
 ###
 
-<p align="left">Hello World!!</p>
 
 ###
 
-<img src="https://raw.githubusercontent.com/Ayushkumarpatel-AKP/Ayushkumarpatel-AKP/output/snake.svg" alt="Snake animation" />
 
 ###
 
