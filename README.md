@@ -11,10 +11,14 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayushkumarpatel-AKP&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-- 🌐 Web 3 Developer with expertise in **HTML**, **CSS**, and **JavaScript**
-- 🐍 Learning **Python** for diverse applications
-- 🤖 Experienced with **Arduino** projects
-- 💻 Passionate about **coding** and building innovative solutions
+<div>
+<ul>
+    <li>🌐 Web 3 Developer with expertise in <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong></li>
+    <li>🐍 Learning <strong>Python</strong> for diverse applications</li>
+    <li>🤖 Experienced with <strong>Arduino</strong> projects</li>
+    <li>💻 Passionate about <strong>coding</strong> and building innovative solutions</li>
+</ul>
+</div>
 
 ###
 
