@@ -37,6 +37,7 @@
 
 
 ###
+<h1 align="LEFT">👋 SOCIAL MEDIA ACCOUNT</h1>
 
 <div align="left">
   <a href="www.linkedin.com/in/ayush-kumar-patel-50276a281" target="_blank">
