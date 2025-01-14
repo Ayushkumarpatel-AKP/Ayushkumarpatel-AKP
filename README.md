@@ -5,19 +5,17 @@
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/mClSIb1tCH6A8/giphy.gif"  />
 </div>
+
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayushkumarpatel-AKP&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayushkumarpatel-AKP&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-<div>
-<ul>
-    <li>🌐 Web 3 Developer with expertise in <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong></li>
-    <li>🐍 Learning <strong>Python</strong> for diverse applications</li>
-    <li>🤖 Experienced with <strong>Arduino</strong> projects</li>
-    <li>💻 Passionate about <strong>coding</strong> and building innovative solutions</li>
-</ul>
-</div>
+
+###
+
+<p align="left">📧 Reach me at: ayushkumarpatel696@gmail.com<br><br>🎓 1st-year B.Tech (CSE-AI) @ SSIPMT<br>💻 Currently Learning: Full Stack Dev | AI Programming Languages | Low Code<br>🚀 What’s Cool? I’m diving into a big project that’s all about innovation and problem-solving.</p>
 
 ###
 
@@ -35,19 +33,32 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
 </div>
 
 ###
 
+<p align="left">SOCIAL MEDIA📍</p>
 
 ###
-
-
-###
-<h1 align="LEFT">🌟 SOCIAL MEDIA ACCOUNT</h1>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/ayush-kumar-patel-50276a281/" target="_blank">
+  <a href="www.linkedin.com/in/ayush-kumar-patel-50276a281" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
