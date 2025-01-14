@@ -16,8 +16,7 @@
 ###
 
 <p align="left">📧 Reach me at: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ayushkumarpatel969@gmail.com">ayushkumarpatel969@gmail.com </a>
-
-<br><br>🎓 1st-year B.Tech (CSE-AI) @ SSIPMT<br>💻 Currently Learning: Full Stack Dev | AI Programming Languages | Low Code<br>🚀 What’s Cool? I’m diving into a big project that’s all about innovation and problem-solving.</p>
+<br>🎓 1st-year B.Tech (CSE-AI) @ SSIPMT<br>💻 Currently Learning: Full Stack Dev | AI Programming Languages | Low Code<br>🚀 What’s Cool? I’m diving into a big project that’s all about innovation and problem-solving.</p>
 
 ###
 
