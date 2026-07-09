@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/mClSIb1tCH6A8/giphy.gif"  />
+  <img height="200" src="file:///C:/Users/Ayush/Downloads/dino.gif"  />
 </div>
 
 ###
