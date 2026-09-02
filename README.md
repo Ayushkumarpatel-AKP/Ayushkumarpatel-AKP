@@ -152,14 +152,16 @@ Practical invoicing/billing web app — invoice generation, automatic totals, PD
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ayushkumarpatel-AKP&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0a0707&title_color=E8142C&icon_color=E8142C" alt="stats graph"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushkumarpatel-AKP&theme=tokyonight&hide_border=true&background=0a0707&ring=E8142C&fire=E8142C&currStreakLabel=E8142C" alt="streak stats"/>
+![Followers](https://img.shields.io/github/followers/Ayushkumarpatel-AKP?style=for-the-badge&color=E8142C&labelColor=1a1010&logo=github&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=Ayushkumarpatel-AKP&color=e8142c&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkumarpatel-AKP&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0707&title_color=E8142C&langs_count=8" alt="top languages"/>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushkumarpatel-AKP&theme=tokyo-night&hide_border=true&bg_color=0a0707&color=E8142C&line=E8142C&point=ffffff&area=true&area_color=7A0C16" alt="activity graph" width="100%"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushkumarpatel-AKP&theme=tokyonight&hide_border=true&background=0a0707&ring=E8142C&fire=E8142C&currStreakLabel=E8142C" alt="streak stats"/>
 
-<img src="https://raw.githubusercontent.com/Ayushkumarpatel-AKP/Ayushkumarpatel-AKP/output/github-contribution-grid-snake.svg" alt="snake contribution graph"/>
+<br/>
+
+<img src="https://raw.githubusercontent.com/Ayushkumarpatel-AKP/Ayushkumarpatel-AKP/output/github-contribution-grid-snake.svg" alt="snake contribution graph" width="100%"/>
 
 </div>
 
