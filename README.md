@@ -110,14 +110,14 @@ ayushkumarpatel969@gmail.com
 <tr>
 <td width="50%" valign="top">
 
-```bash
-$ cat 01_parkinsons.log
-NAME    Parkinson's Disease AI Screening System
-STACK   FastAPI + React + SHAP + Ensemble ML
-DESC    Voice & acoustic biomarkers -> ML diagnosis
-        engine with SHAP explainability + clinical
-        reports
-TAG     [ strongest AI project ]
+```diff
+  FILE    01_parkinsons.log
+- NAME    Parkinson's Disease AI Screening System
+  STACK   FastAPI + React + SHAP + Ensemble ML
++ DESC    Voice & acoustic biomarkers -> ML diagnosis
++         engine with SHAP explainability + clinical
++         reports
+  TAG     [ strongest AI project ]
 ```
 
 [![Repo](https://img.shields.io/badge/View%20Repo-1a1010?style=flat-square&logo=github&logoColor=E8142C)](https://github.com/Ayushkumarpatel-AKP/Parkinson-s-Disease-Early-Screening-Progression-Prediction-System)
@@ -125,13 +125,13 @@ TAG     [ strongest AI project ]
 </td>
 <td width="50%" valign="top">
 
-```bash
-$ cat 02_nasa-io.log
-NAME    NASA.io - Live Earth Observation & Fire Monitor
-STACK   NASA EONET/VIIRS + Firebase Auth + AI Assistant
-DESC    Real-time wildfire dashboard: global map, AQI +
-        weather, live location detection
-TAG     [ full-stack + API + data-viz ]
+```diff
+  FILE    02_nasa-io.log
+- NAME    NASA.io - Live Earth Observation & Fire Monitor
+  STACK   NASA EONET/VIIRS + Firebase Auth + AI Assistant
++ DESC    Real-time wildfire dashboard: global map, AQI +
++         weather, live location detection
+  TAG     [ full-stack + API + data-viz ]
 ```
 
 [![Repo](https://img.shields.io/badge/View%20Repo-1a1010?style=flat-square&logo=github&logoColor=E8142C)](https://github.com/Ayushkumarpatel-AKP/nasa.io)
@@ -142,13 +142,13 @@ TAG     [ full-stack + API + data-viz ]
 <tr>
 <td width="50%" valign="top">
 
-```bash
-$ cat 03_newswale.log
-NAME    THE_NEWSWALE - Retro News Portal
-STACK   React + TypeScript + NewsData API
-DESC    90s-retro news site: category filters,
-        bookmarks, article previews, responsive UI
-TAG     [ strongest visual portfolio piece ]
+```diff
+  FILE    03_newswale.log
+- NAME    THE_NEWSWALE - Retro News Portal
+  STACK   React + TypeScript + NewsData API
++ DESC    90s-retro news site: category filters,
++         bookmarks, article previews, responsive UI
+  TAG     [ strongest visual portfolio piece ]
 ```
 
 [![Repo](https://img.shields.io/badge/View%20Repo-1a1010?style=flat-square&logo=github&logoColor=E8142C)](https://github.com/Ayushkumarpatel-AKP/THE_NEWSWALE)
@@ -156,13 +156,13 @@ TAG     [ strongest visual portfolio piece ]
 </td>
 <td width="50%" valign="top">
 
-```bash
-$ cat 04_invoice-billing.log
-NAME    Invoice & Billing Creation Website
-STACK   JavaScript + PDF/CSV Export
-DESC    Invoice generation, auto totals, neon-style
-        UI for real-world billing use case
-TAG     [ practical business tool ]
+```diff
+  FILE    04_invoice-billing.log
+- NAME    Invoice & Billing Creation Website
+  STACK   JavaScript + PDF/CSV Export
++ DESC    Invoice generation, auto totals, neon-style
++         UI for real-world billing use case
+  TAG     [ practical business tool ]
 ```
 
 [![Repo](https://img.shields.io/badge/View%20Repo-1a1010?style=flat-square&logo=github&logoColor=E8142C)](https://github.com/Ayushkumarpatel-AKP/Invoice-and-Billing-Creation-Website)
