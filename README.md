@@ -110,16 +110,29 @@ ayushkumarpatel969@gmail.com
 <tr>
 <td width="50%" valign="top">
 
-**🧠 Parkinson's Disease AI Screening System**
-AI/ML screening system built on voice & acoustic biomarkers — ensemble ML models, SHAP explainability, a FastAPI backend, React dashboard, and clinical-style reports. My strongest AI project.
+```bash
+$ cat 01_parkinsons.log
+NAME    Parkinson's Disease AI Screening System
+STACK   FastAPI + React + SHAP + Ensemble ML
+DESC    Voice & acoustic biomarkers -> ML diagnosis
+        engine with SHAP explainability + clinical
+        reports
+TAG     [ strongest AI project ]
+```
 
 [![Repo](https://img.shields.io/badge/View%20Repo-1a1010?style=flat-square&logo=github&logoColor=E8142C)](https://github.com/Ayushkumarpatel-AKP/Parkinson-s-Disease-Early-Screening-Progression-Prediction-System)
 
 </td>
 <td width="50%" valign="top">
 
-**🌍 NASA.io — Live Earth Observation & Fire Monitoring**
-Real-time wildfire monitoring dashboard powered by NASA EONET/VIIRS data — interactive global map, AQI & weather, location detection, Firebase auth, and an AI assistant. Strong full-stack + API + data-viz project.
+```bash
+$ cat 02_nasa-io.log
+NAME    NASA.io - Live Earth Observation & Fire Monitor
+STACK   NASA EONET/VIIRS + Firebase Auth + AI Assistant
+DESC    Real-time wildfire dashboard: global map, AQI +
+        weather, live location detection
+TAG     [ full-stack + API + data-viz ]
+```
 
 [![Repo](https://img.shields.io/badge/View%20Repo-1a1010?style=flat-square&logo=github&logoColor=E8142C)](https://github.com/Ayushkumarpatel-AKP/nasa.io)
 
@@ -129,16 +142,28 @@ Real-time wildfire monitoring dashboard powered by NASA EONET/VIIRS data — int
 <tr>
 <td width="50%" valign="top">
 
-**📰 THE_NEWSWALE — Retro News Portal**
-A React + TypeScript news site with a 90s-retro, modern-build aesthetic — real-time NewsData API integration, category filtering, bookmarks, article previews, and a fully responsive UI. Visually one of my strongest portfolio pieces.
+```bash
+$ cat 03_newswale.log
+NAME    THE_NEWSWALE - Retro News Portal
+STACK   React + TypeScript + NewsData API
+DESC    90s-retro news site: category filters,
+        bookmarks, article previews, responsive UI
+TAG     [ strongest visual portfolio piece ]
+```
 
 [![Repo](https://img.shields.io/badge/View%20Repo-1a1010?style=flat-square&logo=github&logoColor=E8142C)](https://github.com/Ayushkumarpatel-AKP/THE_NEWSWALE)
 
 </td>
 <td width="50%" valign="top">
 
-**🧾 Invoice & Billing Creation Website**
-Practical invoicing/billing web app — invoice generation, automatic totals, PDF/CSV export, and a polished neon-style interface. Solves a real, everyday business use case.
+```bash
+$ cat 04_invoice-billing.log
+NAME    Invoice & Billing Creation Website
+STACK   JavaScript + PDF/CSV Export
+DESC    Invoice generation, auto totals, neon-style
+        UI for real-world billing use case
+TAG     [ practical business tool ]
+```
 
 [![Repo](https://img.shields.io/badge/View%20Repo-1a1010?style=flat-square&logo=github&logoColor=E8142C)](https://github.com/Ayushkumarpatel-AKP/Invoice-and-Billing-Creation-Website)
 
