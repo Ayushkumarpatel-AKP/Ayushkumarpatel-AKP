@@ -6,7 +6,7 @@
 <tr>
 <td width="58%" valign="middle">
 
-# Hi, I'm Ayush (AKP)
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&duration=1&pause=100000&color=E8142C&background=1A1010&center=false&vCenter=true&repeat=false&width=560&height=60&lines=%23+Hi%2C+I%27m+Ayush+%28AKP%29" alt="Hi, I'm Ayush (AKP)"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=E8142C&vCenter=true&width=620&lines=I+build+with+code...;and+I'm+just+getting+started.;Full-Stack+Dev+%7C+AI+%7C+Low-Code" alt="Typing SVG" />
@@ -46,7 +46,7 @@ at a time.
 <br/>
 
 <a id="about"></a>
-## About
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=1&pause=100000&color=E8142C&background=1A1010&center=false&vCenter=true&repeat=false&width=190&height=44&lines=%23+About" alt="About"/>
 
 <img align="right" width="280" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" alt="coding gif"/>
 
@@ -66,7 +66,7 @@ ayushkumarpatel969@gmail.com
 <br clear="both"/>
 
 <a id="skills"></a>
-## Skills
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=1&pause=100000&color=E8142C&background=1A1010&center=false&vCenter=true&repeat=false&width=200&height=44&lines=%23+Skills" alt="Skills"/>
 
 **Comfortable with**
 
@@ -103,7 +103,7 @@ ayushkumarpatel969@gmail.com
 ![CodePen](https://img.shields.io/badge/CodePen-1a1010?style=for-the-badge&logo=codepen&logoColor=FFFFFF)
 
 <a id="projects"></a>
-## Featured Projects
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=1&pause=100000&color=E8142C&background=1A1010&center=false&vCenter=true&repeat=false&width=390&height=44&lines=%23+Featured+Projects" alt="Featured Projects"/>
 
 <table width="100%">
 
@@ -148,7 +148,7 @@ Practical invoicing/billing web app — invoice generation, automatic totals, PD
 </table>
 
 <a id="activity"></a>
-## GitHub Activity
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=1&pause=100000&color=E8142C&background=1A1010&center=false&vCenter=true&repeat=false&width=350&height=44&lines=%23+GitHub+Activity" alt="GitHub Activity"/>
 
 <div align="center">
 
@@ -164,7 +164,7 @@ Practical invoicing/billing web app — invoice generation, automatic totals, PD
 </div>
 
 <a id="contact"></a>
-## Contact
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=1&pause=100000&color=E8142C&background=1A1010&center=false&vCenter=true&repeat=false&width=210&height=44&lines=%23+Contact" alt="Contact"/>
 
 <div align="center">
 
