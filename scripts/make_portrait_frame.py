@@ -124,15 +124,30 @@ for i in range(N_FRAMES):
 
     frames.append(canvas.convert("RGBA"))
 
-frames[0].save(
-    "assets/portrait-frame.webp",
+# GIF has no real alpha channel: composite onto the theme's dark backing
+# color first, then threshold near-transparent pixels to a single
+# transparent index so the circle still reads as cut out on any background.
+BG = (10, 7, 7)
+gif_frames = []
+for frame in frames:
+    alpha = frame.split()[3]
+    solid = Image.alpha_composite(
+        Image.new("RGBA", frame.size, BG + (255,)), frame
+    ).convert("RGB")
+    pal = solid.convert("P", palette=Image.ADAPTIVE, colors=255)
+    transparent_mask = alpha.point(lambda a: 255 if a <= 20 else 0)
+    pal.paste(255, transparent_mask)
+    gif_frames.append(pal)
+
+gif_frames[0].save(
+    "assets/portrait-frame.gif",
     save_all=True,
-    append_images=frames[1:],
+    append_images=gif_frames[1:],
     duration=DUR_MS,
     loop=0,
-    format="WEBP",
-    quality=78,
-    method=4,
+    disposal=2,
+    transparency=255,
+    optimize=False,
 )
 
 print("done")
