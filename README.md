@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="90"/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Hi%2C%20I'm%20Ayush%20(AKP)%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE-AI%20Student%20%7C%20Builder%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
@@ -12,7 +14,7 @@
 
 ## 🚀 About Me
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="coding gif"/>
+<img align="right" width="300" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" alt="coding gif"/>
 
 ```bash
 $ whoami
@@ -82,7 +84,13 @@ ayushkumarpatel969@gmail.com
 
 </div>
 
-## 📈 Contribution Graph
+## 📈 Activity Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushkumarpatel-AKP&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=A970FF&line=8E2DE2&point=ffffff&area=true&area_color=8E2DE2" alt="activity graph" width="100%"/>
+</div>
+
+## 🐍 Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Ayushkumarpatel-AKP/Ayushkumarpatel-AKP/output/github-contribution-grid-snake.svg" alt="snake contribution graph"/>
