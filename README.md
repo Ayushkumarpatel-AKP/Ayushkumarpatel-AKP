@@ -25,7 +25,7 @@ at a time.
 
 </td>
 <td width="42%" align="center">
-<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/Ayushkumarpatel-AKP/Ayushkumarpatel-AKP.github.io/main/assets/portrait.jpg&w=340&h=340&fit=cover&mask=circle" width="340"/>
+<img src="https://raw.githubusercontent.com/Ayushkumarpatel-AKP/Ayushkumarpatel-AKP/main/assets/portrait-frame.svg" width="340"/>
 </td>
 </tr>
 </table>
@@ -37,7 +37,7 @@ at a time.
 [![Home](https://img.shields.io/badge/Home-0a0707?style=flat-square)](#home)
 [![About](https://img.shields.io/badge/About-0a0707?style=flat-square)](#about)
 [![Skills](https://img.shields.io/badge/Skills-0a0707?style=flat-square)](#skills)
-[![Log](https://img.shields.io/badge/Log-0a0707?style=flat-square)](#log)
+[![Projects](https://img.shields.io/badge/Projects-0a0707?style=flat-square)](#projects)
 [![Activity](https://img.shields.io/badge/Activity-0a0707?style=flat-square)](#activity)
 [![Contact](https://img.shields.io/badge/Contact-E8142C?style=flat-square)](#contact)
 
@@ -102,17 +102,50 @@ ayushkumarpatel969@gmail.com
 ![Replit](https://img.shields.io/badge/Replit-1a1010?style=for-the-badge&logo=replit&logoColor=F26207)
 ![CodePen](https://img.shields.io/badge/CodePen-1a1010?style=for-the-badge&logo=codepen&logoColor=FFFFFF)
 
-<a id="log"></a>
-## Build Log
+<a id="projects"></a>
+## Featured Projects
 
-No polished projects to show off yet — just what's actually in motion.
-This list gets replaced with real work as it ships.
+<table width="100%">
 
-| # | Status | What |
-|---|--------|------|
-| 001 | 🔴 in progress | First real project — details soon |
-| 002 | ⚪ idea | Something built around AI, still sketching it out |
-| 003 | ⚪ idea | TBD — check back later |
+<tr>
+<td width="50%" valign="top">
+
+**🧠 Parkinson's Disease AI Screening System**
+AI/ML screening system built on voice & acoustic biomarkers — ensemble ML models, SHAP explainability, a FastAPI backend, React dashboard, and clinical-style reports. My strongest AI project.
+
+[![Repo](https://img.shields.io/badge/View%20Repo-1a1010?style=flat-square&logo=github&logoColor=E8142C)](https://github.com/Ayushkumarpatel-AKP/Parkinson-s-Disease-Early-Screening-Progression-Prediction-System)
+
+</td>
+<td width="50%" valign="top">
+
+**🌍 NASA.io — Live Earth Observation & Fire Monitoring**
+Real-time wildfire monitoring dashboard powered by NASA EONET/VIIRS data — interactive global map, AQI & weather, location detection, Firebase auth, and an AI assistant. Strong full-stack + API + data-viz project.
+
+[![Repo](https://img.shields.io/badge/View%20Repo-1a1010?style=flat-square&logo=github&logoColor=E8142C)](https://github.com/Ayushkumarpatel-AKP/nasa.io)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+**📰 THE_NEWSWALE — Retro News Portal**
+A React + TypeScript news site with a 90s-retro, modern-build aesthetic — real-time NewsData API integration, category filtering, bookmarks, article previews, and a fully responsive UI. Visually one of my strongest portfolio pieces.
+
+[![Repo](https://img.shields.io/badge/View%20Repo-1a1010?style=flat-square&logo=github&logoColor=E8142C)](https://github.com/Ayushkumarpatel-AKP/THE_NEWSWALE)
+
+</td>
+<td width="50%" valign="top">
+
+**🧾 Invoice & Billing Creation Website**
+Practical invoicing/billing web app — invoice generation, automatic totals, PDF/CSV export, and a polished neon-style interface. Solves a real, everyday business use case.
+
+[![Repo](https://img.shields.io/badge/View%20Repo-1a1010?style=flat-square&logo=github&logoColor=E8142C)](https://github.com/Ayushkumarpatel-AKP/Invoice-and-Billing-Creation-Website)
+
+</td>
+</tr>
+
+</table>
 
 <a id="activity"></a>
 ## GitHub Activity
