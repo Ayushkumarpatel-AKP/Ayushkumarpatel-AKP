@@ -32,16 +32,16 @@ at a time.
 
 <br/>
 
-<div align="center">
-
-[![Home](https://img.shields.io/badge/Home-0a0707?style=flat-square)](#home)
-[![About](https://img.shields.io/badge/About-0a0707?style=flat-square)](#about)
-[![Skills](https://img.shields.io/badge/Skills-0a0707?style=flat-square)](#skills)
-[![Projects](https://img.shields.io/badge/Projects-0a0707?style=flat-square)](#projects)
-[![Activity](https://img.shields.io/badge/Activity-0a0707?style=flat-square)](#activity)
-[![Contact](https://img.shields.io/badge/Contact-E8142C?style=flat-square)](#contact)
-
-</div>
+<table width="100%">
+<tr>
+<td align="center" width="16.66%"><a href="#home"><img src="https://img.shields.io/badge/Home-1a1010?style=for-the-badge&logoColor=white" alt="Home"/></a></td>
+<td align="center" width="16.66%"><a href="#about"><img src="https://img.shields.io/badge/About-1a1010?style=for-the-badge&logoColor=white" alt="About"/></a></td>
+<td align="center" width="16.66%"><a href="#skills"><img src="https://img.shields.io/badge/Skills-1a1010?style=for-the-badge&logoColor=white" alt="Skills"/></a></td>
+<td align="center" width="16.66%"><a href="#projects"><img src="https://img.shields.io/badge/Projects-1a1010?style=for-the-badge&logoColor=white" alt="Projects"/></a></td>
+<td align="center" width="16.66%"><a href="#activity"><img src="https://img.shields.io/badge/Activity-1a1010?style=for-the-badge&logoColor=white" alt="Activity"/></a></td>
+<td align="center" width="16.66%"><a href="#contact"><img src="https://img.shields.io/badge/Contact-E8142C?style=for-the-badge&logoColor=white" alt="Contact"/></a></td>
+</tr>
+</table>
 
 <br/>
 
