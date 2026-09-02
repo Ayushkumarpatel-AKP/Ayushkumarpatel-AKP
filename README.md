@@ -6,25 +6,26 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A970FF&center=true&vCenter=true&width=650&lines=Full+Stack+Development;AI+%26+Programming+Languages;Low-Code+Solutions;Always+Building+Something+New" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<img src="https://profile-counter.glitch.me/Ayushkumarpatel-AKP/count.svg" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/Ayushkumarpatel-AKP?label=Followers&style=for-the-badge&color=8E2DE2&labelColor=1a1b27" alt="followers"/>
-
 </div>
 
 <br/>
 
 ## 🚀 About Me
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/img/three-cats-with-a-laptop-in-space.gif" alt="coding gif"/>
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="coding gif"/>
 
-- 🎓 1st-year **B.Tech (CSE-AI)** student @ **SSIPMT**
-- 💻 Currently learning **Full Stack Development**, **AI Programming Languages** & **Low-Code Platforms**
-- 🚀 Diving into a big project focused on **innovation & problem-solving**
-- 🌱 Exploring the intersection of design, code and hardware
-- 📫 Reach me at **[ayushkumarpatel969@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=ayushkumarpatel969@gmail.com)**
-- ⚡ Fun fact: I'll try almost any tool once — from Arduino to AutoCAD
+```bash
+$ whoami
+Ayush Kumar Patel (AKP)
+
+$ cat about.md
+> 1st-year B.Tech (CSE-AI) student @ SSIPMT
+> Learning: Full-Stack Dev | AI & Programming Languages | Low-Code
+> Currently shipping a project built around innovation & problem-solving
+
+$ contact --email
+ayushkumarpatel969@gmail.com
+```
 
 <br clear="both"/>
 
@@ -78,12 +79,6 @@
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushkumarpatel-AKP&theme=tokyonight&hide_border=true&background=1a1b27&ring=A970FF&fire=8E2DE2&currStreakLabel=A970FF" alt="streak stats"/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkumarpatel-AKP&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=A970FF&langs_count=8" alt="top languages"/>
-
-</div>
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ayushkumarpatel-AKP&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7)
 
 </div>
 
