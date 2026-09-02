@@ -1,92 +1,105 @@
-<h1 align="center">👋 Hi there, I'm Ayush(A.K.P)</h1>
+<div align="center">
 
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Hi%2C%20I'm%20Ayush%20(AKP)%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE-AI%20Student%20%7C%20Builder%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=18" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A970FF&center=true&vCenter=true&width=650&lines=Full+Stack+Development;AI+%26+Programming+Languages;Low-Code+Solutions;Always+Building+Something+New" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://profile-counter.glitch.me/Ayushkumarpatel-AKP/count.svg" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/Ayushkumarpatel-AKP?label=Followers&style=for-the-badge&color=8E2DE2&labelColor=1a1b27" alt="followers"/>
+
+</div>
+
+<br/>
+
+## 🚀 About Me
+
+<img align="right" width="320" src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/img/three-cats-with-a-laptop-in-space.gif" alt="coding gif"/>
+
+- 🎓 1st-year **B.Tech (CSE-AI)** student @ **SSIPMT**
+- 💻 Currently learning **Full Stack Development**, **AI Programming Languages** & **Low-Code Platforms**
+- 🚀 Diving into a big project focused on **innovation & problem-solving**
+- 🌱 Exploring the intersection of design, code and hardware
+- 📫 Reach me at **[ayushkumarpatel969@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=ayushkumarpatel969@gmail.com)**
+- ⚡ Fun fact: I'll try almost any tool once — from Arduino to AutoCAD
+
+<br clear="both"/>
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img height="200" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif"  />
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=3776AB)
+![HTML5](https://img.shields.io/badge/HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=1572B6)
+![C](https://img.shields.io/badge/C-1a1b27?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![Go](https://img.shields.io/badge/Go-1a1b27?style=for-the-badge&logo=go&logoColor=00ADD8)
+
+**Frameworks & Runtime**
+
+![Node.js](https://img.shields.io/badge/Node.js-1a1b27?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1a1b27?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![WordPress](https://img.shields.io/badge/WordPress-1a1b27?style=for-the-badge&logo=wordpress&logoColor=21759B)
+![Arduino](https://img.shields.io/badge/Arduino-1a1b27?style=for-the-badge&logo=arduino&logoColor=00979D)
+![Unity](https://img.shields.io/badge/Unity-1a1b27?style=for-the-badge&logo=unity&logoColor=FFFFFF)
+
+**Design & Tools**
+
+![Figma](https://img.shields.io/badge/Figma-1a1b27?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Canva](https://img.shields.io/badge/Canva-1a1b27?style=for-the-badge&logo=canva&logoColor=00C4CC)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-1a1b27?style=for-the-badge&logo=autodesk&logoColor=E51050)
+![VS Code](https://img.shields.io/badge/VS%20Code-1a1b27?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Git](https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Postman](https://img.shields.io/badge/Postman-1a1b27?style=for-the-badge&logo=postman&logoColor=FF6C37)
+
+**Deploy & Platforms**
+
+![Vercel](https://img.shields.io/badge/Vercel-1a1b27?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
+![Netlify](https://img.shields.io/badge/Netlify-1a1b27?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![Replit](https://img.shields.io/badge/Replit-1a1b27?style=for-the-badge&logo=replit&logoColor=F26207)
+![CodePen](https://img.shields.io/badge/CodePen-1a1b27?style=for-the-badge&logo=codepen&logoColor=FFFFFF)
+![Google](https://img.shields.io/badge/Google-1a1b27?style=for-the-badge&logo=google&logoColor=4285F4)
+![Discord](https://img.shields.io/badge/Discord-1a1b27?style=for-the-badge&logo=discord&logoColor=5865F2)
+
 </div>
 
-###
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Ayushkumarpatel-AKP/count.svg?"  />
-</div>
 
-###
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ayushkumarpatel-AKP&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=A970FF&icon_color=8E2DE2" alt="stats graph"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushkumarpatel-AKP&theme=tokyonight&hide_border=true&background=1a1b27&ring=A970FF&fire=8E2DE2&currStreakLabel=A970FF" alt="streak stats"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkumarpatel-AKP&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=A970FF&langs_count=8" alt="top languages"/>
+
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayushkumarpatel-AKP&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayushkumarpatel-AKP&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Ayushkumarpatel-AKP&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7)
+
 </div>
 
-###
+## 📈 Contribution Graph
 
-<p align="left">📧 Reach me at: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ayushkumarpatel969@gmail.com" target="_blank">ayushkumarpatel969@gmail.com</a>
-<br>🎓 1st-year B.Tech (CSE-AI) @ SSIPMT<br>💻 Currently Learning: Full Stack Dev | AI Programming Languages | Low Code<br>🚀 What’s Cool? I’m diving into a big project that’s all about innovation and problem-solving.</p>
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" height="40" alt="codepen logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=autocad" height="40" alt="autocad logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-  <img width="12" />
- <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
-
-
-###
-
-<p align="left">SOCIAL MEDIA📍</p>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/ayush-kumar-patel-50276a281" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Ayushkumarpatel-AKP/Ayushkumarpatel-AKP/output/github-contribution-grid-snake.svg" alt="snake contribution graph"/>
 </div>
 
-###
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=EA4335)](https://mail.google.com/mail/?view=cm&fs=1&to=ayushkumarpatel969@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ayush-kumar-patel-50276a281)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" width="100%"/>
