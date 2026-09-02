@@ -40,22 +40,19 @@ col_phase = [rng.randint(0, ROWS + TRAIL) for _ in range(COLS)]
 col_speed = [rng.choice([2, 3]) for _ in range(COLS)]
 col_chars = [[rng.choice("01") for _ in range(ROWS)] for _ in range(COLS)]
 
-N_FRAMES = 30
 DUR_MS = 95
 
-# reveal progress per frame: sweep down 0->1, hold, then rush back up to 0
+# reveal progress per frame: sweep down 0->1, then hold fully revealed.
+# No recover phase - the animation plays once and rests on the clear photo.
 REVEAL_DOWN = 18
-HOLD = 5
-RECOVER = N_FRAMES - REVEAL_DOWN - HOLD
+HOLD = 6
+N_FRAMES = REVEAL_DOWN + HOLD
 
 
 def reveal_progress(i):
     if i < REVEAL_DOWN:
         return i / (REVEAL_DOWN - 1)
-    if i < REVEAL_DOWN + HOLD:
-        return 1.0
-    t = (i - REVEAL_DOWN - HOLD + 1) / RECOVER
-    return max(0.0, 1.0 - t)
+    return 1.0
 
 
 frames = []
@@ -172,7 +169,6 @@ gif_frames[0].save(
     save_all=True,
     append_images=gif_frames[1:],
     duration=DUR_MS,
-    loop=0,
     disposal=2,
     transparency=255,
     optimize=False,
