@@ -100,6 +100,7 @@ ayushkumarpatel969@gmail.com
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=vercel&logoColor=E8142C)](https://ayushkumarpatel-akp.github.io)
 [![Gmail](https://img.shields.io/badge/Gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=EA4335)](https://mail.google.com/mail/?view=cm&fs=1&to=ayushkumarpatel969@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ayush-kumar-patel-50276a281)
 
