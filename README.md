@@ -25,7 +25,7 @@ at a time.
 
 </td>
 <td width="42%" align="center">
-<img src="https://raw.githubusercontent.com/Ayushkumarpatel-AKP/Ayushkumarpatel-AKP.github.io/main/assets/portrait.jpg" width="340"/>
+<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/Ayushkumarpatel-AKP/Ayushkumarpatel-AKP.github.io/main/assets/portrait.jpg&w=340&h=340&fit=cover&mask=circle" width="340"/>
 </td>
 </tr>
 </table>
