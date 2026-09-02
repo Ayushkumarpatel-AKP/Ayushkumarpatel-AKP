@@ -24,8 +24,8 @@ at a time.
 [![Say hi](https://img.shields.io/badge/Say%20hi-1a1010?style=for-the-badge&logoColor=white)](#contact)
 
 </td>
-<td width="42%" align="center">
-<img src="https://raw.githubusercontent.com/Ayushkumarpatel-AKP/Ayushkumarpatel-AKP/main/assets/portrait-frame.gif?v=3" width="340"/>
+<td width="50%" align="center">
+<img src="https://raw.githubusercontent.com/Ayushkumarpatel-AKP/Ayushkumarpatel-AKP/main/assets/portrait-frame.gif?v=3" width="380"/>
 </td>
 </tr>
 </table>
