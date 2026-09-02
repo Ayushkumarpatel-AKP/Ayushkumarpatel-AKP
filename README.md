@@ -105,72 +105,71 @@ ayushkumarpatel969@gmail.com
 <a id="projects"></a>
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=1&pause=100000&color=E8142C&background=1A1010&center=false&vCenter=true&repeat=false&width=390&height=44&lines=%23+Featured+Projects" alt="Featured Projects"/>
 
-<table width="100%">
-
-<tr>
-<td width="50%" valign="top">
-
 ```diff
-  FILE    01_parkinsons.log
-- NAME    Parkinson's Disease AI Screening System
-  STACK   FastAPI + React + SHAP + Ensemble ML
-+ DESC    Voice & acoustic biomarkers -> ML diagnosis
-+         engine with SHAP explainability + clinical
-+         reports
-  TAG     [ strongest AI project ]
+  FILE     01_parkinsons.log
+  --------------------------------------------------------
+- NAME     Parkinson's Disease AI Screening System
+  STACK    FastAPI + React + SHAP + Ensemble ML
+
++ DESC     Voice & acoustic biomarkers -> ML diagnosis
++          engine with SHAP explainability, clinical-style
++          reports, and a full dashboard on top
+
+  TAG      [ strongest AI project ]
 ```
 
-[![Repo](https://img.shields.io/badge/View%20Repo-1a1010?style=flat-square&logo=github&logoColor=E8142C)](https://github.com/Ayushkumarpatel-AKP/Parkinson-s-Disease-Early-Screening-Progression-Prediction-System)
+[![Repo](https://img.shields.io/badge/View%20Repo-1a1010?style=for-the-badge&logo=github&logoColor=E8142C)](https://github.com/Ayushkumarpatel-AKP/Parkinson-s-Disease-Early-Screening-Progression-Prediction-System)
 
-</td>
-<td width="50%" valign="top">
-
-```diff
-  FILE    02_nasa-io.log
-- NAME    NASA.io - Live Earth Observation & Fire Monitor
-  STACK   NASA EONET/VIIRS + Firebase Auth + AI Assistant
-+ DESC    Real-time wildfire dashboard: global map, AQI +
-+         weather, live location detection
-  TAG     [ full-stack + API + data-viz ]
-```
-
-[![Repo](https://img.shields.io/badge/View%20Repo-1a1010?style=flat-square&logo=github&logoColor=E8142C)](https://github.com/Ayushkumarpatel-AKP/nasa.io)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+<br/>
 
 ```diff
-  FILE    03_newswale.log
-- NAME    THE_NEWSWALE - Retro News Portal
-  STACK   React + TypeScript + NewsData API
-+ DESC    90s-retro news site: category filters,
-+         bookmarks, article previews, responsive UI
-  TAG     [ strongest visual portfolio piece ]
+  FILE     02_nasa-io.log
+  --------------------------------------------------------
+- NAME     NASA.io - Live Earth Observation & Fire Monitor
+  STACK    NASA EONET/VIIRS + Firebase Auth + AI Assistant
+
++ DESC     Real-time wildfire dashboard with an interactive
++          global map, AQI + weather overlays, and live
++          location detection
+
+  TAG      [ full-stack + API + data-viz ]
 ```
 
-[![Repo](https://img.shields.io/badge/View%20Repo-1a1010?style=flat-square&logo=github&logoColor=E8142C)](https://github.com/Ayushkumarpatel-AKP/THE_NEWSWALE)
+[![Repo](https://img.shields.io/badge/View%20Repo-1a1010?style=for-the-badge&logo=github&logoColor=E8142C)](https://github.com/Ayushkumarpatel-AKP/nasa.io)
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
 ```diff
-  FILE    04_invoice-billing.log
-- NAME    Invoice & Billing Creation Website
-  STACK   JavaScript + PDF/CSV Export
-+ DESC    Invoice generation, auto totals, neon-style
-+         UI for real-world billing use case
-  TAG     [ practical business tool ]
+  FILE     03_newswale.log
+  --------------------------------------------------------
+- NAME     THE_NEWSWALE - Retro News Portal
+  STACK    React + TypeScript + NewsData API
+
++ DESC     A 90s-retro news site with category filters,
++          bookmarks, article previews, and a fully
++          responsive UI
+
+  TAG      [ strongest visual portfolio piece ]
 ```
 
-[![Repo](https://img.shields.io/badge/View%20Repo-1a1010?style=flat-square&logo=github&logoColor=E8142C)](https://github.com/Ayushkumarpatel-AKP/Invoice-and-Billing-Creation-Website)
+[![Repo](https://img.shields.io/badge/View%20Repo-1a1010?style=for-the-badge&logo=github&logoColor=E8142C)](https://github.com/Ayushkumarpatel-AKP/THE_NEWSWALE)
 
-</td>
-</tr>
+<br/>
 
-</table>
+```diff
+  FILE     04_invoice-billing.log
+  --------------------------------------------------------
+- NAME     Invoice & Billing Creation Website
+  STACK    JavaScript + PDF/CSV Export
+
++ DESC     Invoice generation, automatic totals, and a
++          polished neon-style UI for a real-world
++          billing use case
+
+  TAG      [ practical business tool ]
+```
+
+[![Repo](https://img.shields.io/badge/View%20Repo-1a1010?style=for-the-badge&logo=github&logoColor=E8142C)](https://github.com/Ayushkumarpatel-AKP/Invoice-and-Billing-Creation-Website)
 
 <a id="activity"></a>
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=1&pause=100000&color=E8142C&background=1A1010&center=false&vCenter=true&repeat=false&width=350&height=44&lines=%23+GitHub+Activity" alt="GitHub Activity"/>
