@@ -1,31 +1,36 @@
 <a id="home"></a>
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"/>
-</div>
+
+<br/>
 
 <table width="100%">
 <tr>
-<td width="60%" valign="middle">
+<td width="58%" valign="middle">
 
 # Hi, I'm Ayush (AKP)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=E8142C&vCenter=true&width=560&lines=I+build+with+code...;and+I'm+just+getting+started.;Full-Stack+Dev+%7C+AI+%7C+Low-Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=E8142C&vCenter=true&width=620&lines=I+build+with+code...;and+I'm+just+getting+started.;Full-Stack+Dev+%7C+AI+%7C+Low-Code" alt="Typing SVG" />
 </a>
+
+<br/>
 
 1st-year **B.Tech (CSE-AI)** student at **SSIPMT**, learning full-stack
 development, AI-driven programming, and low-code tools — one project
 at a time.
 
+<br/>
+
 [![Portfolio](https://img.shields.io/badge/View%20my%20portfolio-E8142C?style=for-the-badge&logoColor=white)](https://ayushkumarpatel-akp.github.io)
 [![Say hi](https://img.shields.io/badge/Say%20hi-1a1010?style=for-the-badge&logoColor=white)](#contact)
 
 </td>
-<td width="40%" align="center">
-<img src="https://raw.githubusercontent.com/Ayushkumarpatel-AKP/Ayushkumarpatel-AKP.github.io/main/assets/portrait.jpg" width="260"/>
+<td width="42%" align="center">
+<img src="https://raw.githubusercontent.com/Ayushkumarpatel-AKP/Ayushkumarpatel-AKP.github.io/main/assets/portrait.jpg" width="340"/>
 </td>
 </tr>
 </table>
+
+<br/>
 
 <div align="center">
 
