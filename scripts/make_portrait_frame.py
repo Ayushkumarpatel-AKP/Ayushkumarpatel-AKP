@@ -164,11 +164,16 @@ for frame in frames:
     pal.paste(255, transparent_mask)
     gif_frames.append(pal)
 
+# Hold the final (fully revealed) frame for 10 minutes. Even a viewer
+# that ignores the "no loop extension = play once" convention and loops
+# anyway won't visibly repeat within any realistic viewing session.
+durations = [DUR_MS] * (len(gif_frames) - 1) + [600000]
+
 gif_frames[0].save(
     "assets/portrait-frame.gif",
     save_all=True,
     append_images=gif_frames[1:],
-    duration=DUR_MS,
+    duration=durations,
     disposal=2,
     transparency=255,
     optimize=False,
